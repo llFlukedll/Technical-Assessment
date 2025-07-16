@@ -1,5 +1,3 @@
-using Microsoft.Extensions.Hosting;
-using Microsoft.Extensions.DependencyInjection;
 public class DatabaseConfig
 {
     public string Server { get; set; }

@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Dapper_DB_connect")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ae538b77071da9e8fd26d35ea899099a8770c8f7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Dapper_DB_connect")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Dapper_DB_connect")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

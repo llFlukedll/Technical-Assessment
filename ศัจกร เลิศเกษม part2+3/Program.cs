@@ -1,10 +1,6 @@
 ﻿
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.DependencyInjection;
-using System;
-using System.Data;
-using Microsoft.Data.SqlClient;
-using System.Threading.Tasks;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 public class Program

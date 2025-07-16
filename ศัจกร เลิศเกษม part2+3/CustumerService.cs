@@ -1,10 +1,7 @@
 
 using Dapper;
-using System;
 using System.Data;
 using MySqlConnector;
-using System.Threading.Tasks;
-using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
 public class CustomerService
 {
